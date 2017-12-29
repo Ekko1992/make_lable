@@ -1,0 +1,17 @@
+SampleSize----------------------------------------------------------
+0 0								//width & height("0 0" is of any size)
+
+Names(B,G,R,Name)---------------------------------------------------
+0	255	0	person					//green - face
+255	0	0	face					//blue - person
+0	255	255	car						//yellow - car
+255	255	0	bus						//cyan - bus
+0	0	255	NULL					//red - NULL(keep NULL as the last)
+
+Attributes(B,G,R,Attribute)-----------------------------------------
+255	0	0	id						//blue - id
+0	255	255	occ						//yellow - occ
+255	255	0	blur					//blue - blur
+0	0	0	NULL					//keep NULL as the last
+
+

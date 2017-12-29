@@ -1,0 +1,22 @@
+﻿生成启动时间为 2017/8/18 5:46:29。
+     1>项目“F:\SampleSampler\SampleSampler\SampleSampler.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“F:\SampleSampler\Release\”。
+       InitializeBuildStatus:
+         正在创建“Release\SampleSampler.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\ThirdParty\opencv2.4.9\include /ID:\ThirdParty\opencv2.4.9\include\opencv /ID:\ThirdParty\opencv2.4.9\include\opencv2 /ID:\ThirdParty\tinymxl2.6.2\include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MyBox.cpp MyGtXml.cpp MySampler.cpp MyUtil.cpp SampleSampler.cpp stdafx.cpp
+         MyBox.cpp
+         MyGtXml.cpp
+     1>f:\samplesampler\samplesampler\MyGtXml.h(2): fatal error C1083: 无法打开包括文件:“tinyxml.h”: No such file or directory
+         MySampler.cpp
+     1>f:\samplesampler\samplesampler\MyGtXml.h(2): fatal error C1083: 无法打开包括文件:“tinyxml.h”: No such file or directory
+         MyUtil.cpp
+         SampleSampler.cpp
+     1>f:\samplesampler\samplesampler\MyGtXml.h(2): fatal error C1083: 无法打开包括文件:“tinyxml.h”: No such file or directory
+         stdafx.cpp
+     1>已完成生成项目“F:\SampleSampler\SampleSampler\SampleSampler.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.99
